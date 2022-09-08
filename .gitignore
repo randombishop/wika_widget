@@ -1,0 +1,9 @@
+# Mac stuff
+.DS_Store
+
+# exclude PyCharm metadata
+.idea
+
+
+
+
